@@ -1,0 +1,25 @@
+{
+  "name": "acount",
+  "version": "0.0.1",
+  "description": "kekstogram",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "4.17.0",
+    "eslint-config-htmlacademy": "0.4.2"
+  },
+  "scripts": {
+    "test:lint": "eslint .",
+    "test": "npm run test:lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shmelcer/acount.git"
+  },
+  "author": "Vyacheslav Shmelcer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shmelcer/acount/issues"
+  },
+  "homepage": "https://github.com/Shmelcer/acount#readme"
+}
